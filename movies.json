@@ -1,30 +1,4 @@
 {
-  "featured": [
-    {
-      "tmdbID": "502356",
-      "embedLink": "https://gobooly.strp2p.com/#w3xbr"
-    },
-    {
-      "tmdbID": "646097",
-      "embedLink": "https://gobooly.strp2p.com/#w3xbr",
-      "category": "Sci-Fi"
-    },
-    {
-      "tmdbID": "429617",
-      "embedLink": "https://gobooly.strp2p.com/#w3xbr",
-      "category": "Action"
-    },
-    {
-      "tmdbID": "348",
-      "embedLink": "https://gobooly.strp2p.com/#w3xbr",
-      "category": "Comedy"
-    },
-    {
-      "tmdbID": "399566",
-      "embedLink": "https://gobooly.strp2p.com/#w3xbr",
-      "category": "Action"
-    }
-  ],
   "Action": [
     {
       "tmdbID": "646097",
