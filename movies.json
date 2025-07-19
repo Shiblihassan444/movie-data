@@ -1,20 +1,16 @@
 {
   "Pending": [
-     {
-      "tmdbID": "60694",
+      {
+      "tmdbID": "15102",
       "embedLink": "https://gobooly.strp2p.com/#w3xbr",
       "category": "Drama"
-    },
-    {
-      "tmdbID": "646097",
-      "embedLink": "https://gobooly.strp2p.com/#w3xbr",
-      "category": "Action"
     }
-  ],
 
+
+  ],
   "Action": [
      {
-      "tmdbID": "60694",
+      "tmdbID": "15102",
       "embedLink": "https://gobooly.strp2p.com/#w3xbr",
       "category": "Drama"
     },
