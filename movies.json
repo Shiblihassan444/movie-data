@@ -1,13 +1,11 @@
 
 {
-  "Vintage":[
-        {
+
+  "Latest": [
+     {
       "tmdbID": "24428",
       "embedLink": "https://gobooly.strp2p.com/#ql898"
-    }
-
-  ],
-  "Latest": [
+    },
     {
       "tmdbID": "1771",
       "embedLink": "https://gobooly.strp2p.com/#6ashw"
@@ -35,14 +33,13 @@
     {
       "tmdbID": "533535",
       "embedLink": "https://gobooly.strp2p.com/#3lhei"
-    },
-    {
-      "tmdbID": "912649",
-      "embedLink": "https://gobooly.strp2p.com/#w3xbr",
-      "category": "Dual Audio ORG"
     }
   ],
   "hero": [
+    {
+      "tmdbID": "24428",
+      "embedLink": "https://gobooly.strp2p.com/#ql898"
+    },
     {
       "tmdbID": "1771",
       "embedLink": "https://gobooly.strp2p.com/#6ashw"
